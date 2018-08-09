@@ -1,4 +1,21 @@
 h1.mainPageHeader{
-  color: darkgreen;
+  size: 40px;
+  color: blue;
   font-family:monospace;
+}
+img{
+  width: 700px;
+  height: 500px;
+  position: sticky;
+  border-style: outset;
+}
+#blurb{
+  font-stretch: expanded;
+  text-align:left;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  font-family:monospace;
+  background
+
 }

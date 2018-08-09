@@ -8,6 +8,8 @@ img{
   height: 500px;
   position: sticky;
   border-style: outset;
+  background-color: black;
+  border-color: black;
 }
 #blurb{
   font-stretch: expanded;
@@ -16,6 +18,5 @@ img{
   font-weight: bold;
   color: black;
   font-family:monospace;
-  background
-
+  border-color: black;
 }
